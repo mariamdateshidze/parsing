@@ -8,7 +8,7 @@
 # file_obj =csv.writer(file)
 # file_obj.writerow(['Title', 'Address', 'Website'])
 # p={'SetTypeID':2, 'Page':1}
-# # h={'Accept-Language':'geo-GEO'}
+
 #
 # url= 'https://www.mymarket.ge/ka/shops/'
 #
